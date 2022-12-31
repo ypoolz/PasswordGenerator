@@ -1,3 +1,3 @@
 # PwGen
 
-## Aplicação em python que gera senha de 15 caracteres aleatórios.
+## Aplicação em python que gera senha com 15 caracteres aleatórios.
